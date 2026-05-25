@@ -1,0 +1,5 @@
+{"sensor_id":"DAPUR_1","temperature":43.10,"co_value":70.72,"lpg_value":798.46,"timestamp":"2026-05-25 13:23:54","status":"BAHAYA"}
+{"sensor_id":"DAPUR_1","temperature":39.13,"co_value":145.99,"lpg_value":781.46,"timestamp":"2026-05-25 13:23:55","status":"BAHAYA"}
+{"sensor_id":"DAPUR_1","temperature":42.99,"co_value":113.46,"lpg_value":882.01,"timestamp":"2026-05-25 13:23:56","status":"BAHAYA"}
+{"sensor_id":"DAPUR_1","temperature":46.65,"co_value":96.66,"lpg_value":243.18,"timestamp":"2026-05-25 13:23:57","status":"BAHAYA"}
+{"sensor_id":"DAPUR_1","temperature":37.37,"co_value":134.63,"lpg_value":788.29,"timestamp":"2026-05-25 13:23:58","status":"BAHAYA"}
